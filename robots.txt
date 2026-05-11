@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rosanna-concrete-site.vercel.app/sitemap.xml
